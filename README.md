@@ -17,3 +17,7 @@ function percVisible(el) {
   return 0;
 }
 ```
+
+
+# Working Example
+https://jsfiddle.net/z0x5j6nd/1/
